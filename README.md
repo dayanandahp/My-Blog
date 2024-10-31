@@ -28,7 +28,18 @@ Create the Project Structure: Initialize your Node.js project and set up basic f
 
 mkdir blog-app cd blog-app npm init -y
 
-Basic Structure Setup: Make sure your project has the following folder structure: blog-app/ ├── views/ │ └── index.ejs │ └── edit.ejs │ └── new.ejs ├── public/ │ └── edit.css │ └── index.css │ └── new.css ├── app.js └── package.json
+Basic Structure Setup: Make sure your project has the following folder structure: 
+blog-app/ 
+├── views/ 
+│ └── index.ejs 
+│ └── edit.ejs 
+│ └── new.ejs 
+├── public/ 
+│ └── edit.css 
+│ └── index.css 
+│ └── new.css
+├── app.js
+└── package.json
 
 Documentation
 🚀 About Me
